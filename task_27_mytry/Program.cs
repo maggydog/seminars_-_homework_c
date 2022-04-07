@@ -1,5 +1,7 @@
 ﻿// 27. Определить количество цифр в числе
-/*Console.WriteLine("Введите число: ");
+/*
+Через строку
+Console.WriteLine("Введите число: ");
 string a = Console.ReadLine();
 Console.WriteLine($"Количество цифр в числе {a}:  {a.Length}");*/
 
@@ -19,3 +21,4 @@ void Num (int n)
 Console.WriteLine ($"Количество цифр в числе: {count}");   
 }
 Num(b);
+
